@@ -72,69 +72,17 @@ body{
     font-weight: bold;
 }
 
-.item1{
+.item{
     width: 300px;
     border-radius: 0.5rem ;
     background-color: hsl(0, 0%, 20%);
     text-align: center;
-    
-    
 }
 
-.item2{
-    width: 300px;
-    border-radius: 0.5rem ;
-    background-color: hsl(0, 0%, 20%);
-    text-align: center;
-    margin-top: 13px;
-    
-}
 
-.item3{
-    width: 300px;
-    border-radius: 0.5rem ;
-    background-color: hsl(0, 0%, 20%);
-    text-align: center;
-    margin-top: 13px;
-}
 
-.item4{
-    width: 300px;
-    border-radius: 0.5rem ;
-    background-color: hsl(0, 0%, 20%);
-    text-align: center;
-    margin-top: 13px;
-}
-
-.item5{
-    width: 300px;
-    border-radius: 0.5rem ;
-    background-color: hsl(0, 0%, 20%);
-    text-align: center;
-    margin-top: 13px;
-}
-
-.item1:hover{
+.item:hover{
     background-color: hsl(75, 94%, 57%);
     color: hsl(0, 0%, 8%);
 }
 
-.item2:hover{
-    background-color: hsl(75, 94%, 57%);
-    color: hsl(0, 0%, 8%);
-}
-
-.item3:hover{
-    background-color: hsl(75, 94%, 57%);
-    color: hsl(0, 0%, 8%);
-}
-
-.item4:hover{
-    background-color: hsl(75, 94%, 57%);
-    color: hsl(0, 0%, 8%);
-}
-
-.item5:hover{
-    background-color: hsl(75, 94%, 57%);
-    color: hsl(0, 0%, 8%);
-}
