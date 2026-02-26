@@ -73,19 +73,67 @@ body{
     gap: 1rem;
 }
 
-.item{
+.item1{
     width: 300px;
     border-radius: 0.5rem ;
     background-color: hsl(0, 0%, 20%);
-    
     text-align: center;
     
 }
 
+.item2{
+    width: 300px;
+    border-radius: 0.5rem ;
+    background-color: hsl(0, 0%, 20%);
+    text-align: center;
+    margin-top: 13px;
+}
 
+.item3{
+    width: 300px;
+    border-radius: 0.5rem ;
+    background-color: hsl(0, 0%, 20%);
+    text-align: center;
+    margin-top: 13px;
+}
 
-.item:hover{
+.item4{
+    width: 300px;
+    border-radius: 0.5rem ;
+    background-color: hsl(0, 0%, 20%);
+    text-align: center;
+    margin-top: 13px;
+}
+
+.item5{
+    width: 300px;
+    border-radius: 0.5rem ;
+    background-color: hsl(0, 0%, 20%);
+    text-align: center;
+    margin-top: 13px;
+}
+
+.item1:hover{
     background-color: hsl(75, 94%, 57%);
     color: hsl(0, 0%, 8%);
 }
 
+.item2:hover{
+    background-color: hsl(75, 94%, 57%);
+    color: hsl(0, 0%, 8%);
+}
+
+.item3:hover{
+    background-color: hsl(75, 94%, 57%);
+    color: hsl(0, 0%, 8%);
+}
+
+.item4:hover{
+    background-color: hsl(75, 94%, 57%);
+    color: hsl(0, 0%, 8%);
+}
+
+.item5:hover{
+    background-color: hsl(75, 94%, 57%);
+    color: hsl(0, 0%, 8%);
+}
