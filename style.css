@@ -70,13 +70,14 @@ body{
     color: hsl(0, 0%, 100%) ;
     line-height: 45px;
     font-weight: bold;
+    gap: 1rem;
 }
 
 .item{
     width: 300px;
     border-radius: 0.5rem ;
     background-color: hsl(0, 0%, 20%);
-    gap: 0.5rem;
+    
     text-align: center;
     
 }
